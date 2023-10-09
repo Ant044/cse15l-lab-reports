@@ -26,3 +26,12 @@ Given a file as an argument, ls simply prints the name of the file.\
 ![image](https://github.com/Ant044/cse15l-lab-reports/assets/146861585/0e974e7f-a7fc-4e79-ac91-3ecdbb9e0ac7)
 
 **The "cat" command**\
+Using "cat" without any arguments from the home directory seemed to glitch out the terminal. The user/directory thing was removed and I was able to just free type, and if I pressed enter it would duplicate the text. I had to use ctrl+d to exit the command. I'm not sure if this is an error or not.\
+![image](https://github.com/Ant044/cse15l-lab-reports/assets/146861585/f30c076c-f190-4c35-a7fc-0e6ef8d0155d)
+
+Using the command with a directory as an argument produced text that confirmed that, indeed, the directory was a directory. The output is not an error.\
+![image](https://github.com/Ant044/cse15l-lab-reports/assets/146861585/fb4c4ea4-a236-4c9e-aca1-d58104a95f62)
+
+Using the command with a file as an argument produced the text inside of that file (or files if there are multiple arguments). The output is not an error, as this is its intended purpose.\
+![image](https://github.com/Ant044/cse15l-lab-reports/assets/146861585/de724f65-72cf-4c6b-b1d4-02375050716f)
+
