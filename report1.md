@@ -16,7 +16,7 @@ Using "cd" with a path to a directory/folder also printed no output, however in 
 ![image](https://github.com/Ant044/cse15l-lab-reports/assets/146861585/7eff8feb-d6db-48ec-a461-5319a74d0163)
 
 **The "ls" command**\
-Using "ls" without any arguments from the home directory printed the files/folders in that directory. This is because, without being given any path, ls works on the working directory itself.\ 
+Using "ls" without any arguments from the home directory printed the files/folders in that directory. This is because, without being given any path, ls works on the working directory itself.\
 ![image](https://github.com/Ant044/cse15l-lab-reports/assets/146861585/8766f30e-cec0-47de-8ef6-94712ee80d50)
 
 Given a directory as an argument, ls prints the contents of that directory instead of the working directory.\
