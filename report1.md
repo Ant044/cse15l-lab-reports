@@ -1,6 +1,6 @@
-Andrew Tan
-10/3/2023
-CSE 15L Section A05
+Andrew Tan\
+10/3/2023\
+CSE 15L Section A05\
 
 # **Lab 1 Lab report**
 
