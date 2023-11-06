@@ -4,3 +4,4 @@
 > Fun things are fun!\
 [a relative link](report1.md)\
 [a relative link](report2-2.md)\
+Report 3: [a relative link](report3.md)\
